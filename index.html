@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Productcatalogus</title>
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
     <div class="container">
@@ -42,7 +42,7 @@
       <div id="grid" class="grid"></div>
 
       <div class="footer">
-        Tip: klik op een kaart voor details. Alle links openen in een nieuw tabblad.
+        Tip: klik op een kaart voor details. Gebruik “Print” om een productfiche af te drukken of te bewaren als PDF.
       </div>
     </div>
 
@@ -55,6 +55,7 @@
               <span class="pill" id="modalType"></span>
               <span class="pill">Prijs: <b id="modalPrice"></b></span>
               <a id="modalLink" class="btn primary link" href="#" target="_blank" rel="noreferrer">Bekijk op website</a>
+              <button id="modalPrint" class="btn">Print</button>
             </div>
           </div>
           <button id="closeModal" class="close" aria-label="Sluiten">✕</button>
@@ -68,7 +69,6 @@
       </div>
     </div>
 
-    <!-- ES module app (laadt products.json via fetch) -->
     <script type="module" src="./app.js"></script>
   </body>
 </html>
