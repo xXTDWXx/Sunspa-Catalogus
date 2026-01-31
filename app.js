@@ -35,13 +35,14 @@ function escapeAttr(str) {
 }
 
 async function loadProducts() {
-  // Works on GitHub Pages (https://...), and keeps things clean.
-  const res = await fetch("./products.json", { cache: "no-store" });
+  const url = new URL("../products.json", import.meta.url); // vanuit /assets/app.js -> /products.json
+  const res = await fetch(url, { cache: "no-store" });
   if (!res.ok) throw new Error(`Kan products.json niet laden (HTTP ${res.status})`);
   const data = await res.json();
   if (!Array.isArray(data)) throw new Error("products.json heeft geen array als root");
   return data;
 }
+
 
 function buildSearchIndex(products) {
   const idx = new Map();
