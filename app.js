@@ -35,13 +35,17 @@ function escapeAttr(str) {
 }
 
 async function loadProducts() {
-  const url = new URL("../products.json", import.meta.url); // van /assets/app.js naar /products.json
-  const res = await fetch(url, { cache: "no-store" });
+  const res = await fetch("./products.json", { cache: "no-store" });
 
-  if (!res.ok) throw new Error(`Kan products.json niet laden (HTTP ${res.status})`);
+  if (!res.ok) {
+    throw new Error(`Kan products.json niet laden (HTTP ${res.status})`);
+  }
 
   const data = await res.json();
-  if (!Array.isArray(data)) throw new Error("products.json heeft geen array als root");
+  if (!Array.isArray(data)) {
+    throw new Error("products.json heeft geen array als root");
+  }
+
   return data;
 }
 
