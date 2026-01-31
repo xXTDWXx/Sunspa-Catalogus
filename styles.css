@@ -20,11 +20,6 @@ body{
               var(--bg);
   color:var(--text);
 }
-input,
-select,
-textarea{
-  font-size: 16px;
-}
 .container{max-width:var(--max); margin:0 auto; padding:28px 18px 80px}
 .header{display:flex; flex-wrap:wrap; gap:14px; align-items:flex-end; justify-content:space-between; margin-bottom:18px}
 .brand{display:flex; flex-direction:column; gap:6px}
@@ -39,8 +34,6 @@ textarea{
   border-radius:12px;
   outline:none;
   min-height:40px;
-  font-size: 16px;      /* voorkomt iOS zoom */
-  line-height: 1.2;
 }
 .input::placeholder{color:#7f8a99}
 .select{cursor:pointer}
@@ -148,7 +141,7 @@ textarea{
   overflow:hidden;
   background: rgba(0,0,0,.12);
 }
-.modal-hero img{width:100%; object-fit:cover; display:block}
+.modal-hero img{width:100%; height:100%; object-fit:cover; display:block}
 .modal-hero .fallback{padding:16px; color:var(--muted); font-size:12px}
 .specs{border:1px solid rgba(255,255,255,.06); border-radius:18px; overflow:hidden}
 .specs table{width:100%; border-collapse:collapse; font-size:13px}
