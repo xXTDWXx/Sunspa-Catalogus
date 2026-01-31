@@ -35,7 +35,7 @@ function escapeAttr(str) {
 }
 
 async function loadProducts() {
-  const url = new URL("../products.json", import.meta.url); // vanuit /assets/app.js -> /products.json
+  const url = new URL("../products.json", import.meta.url); // assets/app.js -> products.json
   const res = await fetch(url, { cache: "no-store" });
   if (!res.ok) throw new Error(`Kan products.json niet laden (HTTP ${res.status})`);
   const data = await res.json();
