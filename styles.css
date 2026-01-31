@@ -34,6 +34,8 @@ body{
   border-radius:12px;
   outline:none;
   min-height:40px;
+  font-size: 16px;      /* voorkomt iOS zoom */
+  line-height: 1.2;
 }
 .input::placeholder{color:#7f8a99}
 .select{cursor:pointer}
