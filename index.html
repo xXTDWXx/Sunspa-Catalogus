@@ -3,8 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Productcatalogus (offline)</title>
-    <link rel="stylesheet" href="styles.css" />
+    <title>Productcatalogus</title>
+    <link rel="stylesheet" href="./assets/styles.css" />
   </head>
   <body>
     <div class="container">
@@ -12,7 +12,7 @@
         <div class="brand">
           <h1>Productcatalogus</h1>
           <div class="sub">
-            Offline demo — alle data zit ingebakken in deze pagina. Totaal: <b id="totalAll">0</b> producten.
+            GitHub Pages versie — data staat in <code>products.json</code>. Totaal: <b id="totalAll">0</b> producten.
           </div>
         </div>
 
@@ -68,8 +68,7 @@
       </div>
     </div>
 
+    <!-- ES module app (laadt products.json via fetch) -->
     <script type="module" src="./assets/app.js"></script>
-
-    <script src="app.js"></script>
   </body>
 </html>
