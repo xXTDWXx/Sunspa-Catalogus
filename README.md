@@ -7,4 +7,4 @@ Bestanden:
 - assets/styles.css
 - assets/app.js
 
-Data zit ingebakken in index.html (window.__PRODUCTS__), dus er is geen fetch en geen synchronisatie nodig.
+Data zit in de products.json
