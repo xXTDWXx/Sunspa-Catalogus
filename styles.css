@@ -164,3 +164,15 @@ body{
   .container { padding: 0 !important; max-width: none !important; }
   .grid { display:block !important; }
 }
+.brand-with-logo{
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.logo{
+  height: 42px;      /* pas aan indien nodig */
+  width: auto;
+  object-fit: contain;
+}
+
