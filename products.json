@@ -13173,7 +13173,7 @@
     "type": "spa",
     "title": "Plug and play Spa Phantom",
     "url": "https://www.sunspabenelux.nl/p/sunspa-phantom/",
-    "image": "",
+    "image": "https://www.sunspabenelux.nl/wp-content/uploads/2026/01/Sunspa-Phantom-582x582.png",
     "price": 4950,
     "bullets": [],
     "specs": [
@@ -13186,6 +13186,18 @@
         "value": "2 ligplaatsen"
       },
       {
+        "label": "Aantal luchtregelaars",
+        "value": "2"
+      },
+      {
+        "label": "Aantal kussens",
+        "value": "2"
+      },
+      {
+        "label": "Aantal waterregelaars",
+        "value": "1"
+      },
+      {
         "label": "Aantal jets",
         "value": "37 jets"
       },
@@ -13196,7 +13208,79 @@
       {
         "label": "Inhoud",
         "value": "760 liter"
+      },
+      {
+        "label": "Pomp 1",
+        "value": "2.5pk"
+      },
+      {
+        "label": "Mini-LED verlichting",
+        "value": "8 stuks"
+      },
+      {
+        "label": "Circulatiepomp",
+        "value": "250W"
+      },
+      {
+        "label": "Heater",
+        "value": "2 kW"
+      },
+      {
+        "label": "Muziekinstallatie",
+        "value": "Geen"
+      },
+      {
+        "label": "Leeg gewicht",
+        "value": "260 kg"
+      },
+      {
+        "label": "Stroom",
+        "value": "16 AMP 220 Volt"
+      },
+      {
+        "label": "Isolatie",
+        "value": "CFC free foam"
+      },
+      {
+        "label": "Filter",
+        "value": "Dual port skim filter"
+      },
+      {
+        "label": "Blower",
+        "value": "700 W"
+      },
+      {
+        "label": "Frame",
+        "value": "Geperst chemisch behandeld hout"
+      },
+      {
+        "label": "Waterval",
+        "value": "Ja"
+      },
+      {
+        "label": "Bodem",
+        "value": "ABS vacuüm bodem"
+      },
+      {
+        "label": "Besturingssysteem",
+        "value": "Balboa"
+      },
+      {
+        "label": "Materiaal kuip",
+        "value": "Aristech"
+      },
+      {
+        "label": "Vorm",
+        "value": "Rechthoekig"
+      },
+      {
+        "label": "Filter (2)",
+        "value": "UV-filter"
       }
+    ],
+    "images": [
+      "https://www.sunspabenelux.nl/wp-content/uploads/2026/01/Sunspa-Phantom-582x582.png",
+      "https://www.sunspabenelux.nl/wp-content/uploads/2026/01/Sunspa-Phantom-Sideview-scaled.jpg"
     ]
   },
   {
@@ -13204,7 +13288,7 @@
     "type": "spa",
     "title": "Plug and Play Spa Atlantica",
     "url": "https://www.sunspabenelux.nl/p/sunspa-atlantica/",
-    "image": "",
+    "image": "https://www.sunspabenelux.nl/wp-content/uploads/2026/01/Sunspa-Atlantica-1-582x574.webp",
     "price": 4995,
     "bullets": [],
     "specs": [
@@ -13217,17 +13301,109 @@
         "value": "2 ligplaatsen"
       },
       {
+        "label": "Aantal luchtregelaars",
+        "value": "2"
+      },
+      {
+        "label": "Aantal kussens",
+        "value": "3"
+      },
+      {
+        "label": "Aantal speakers",
+        "value": "Geen"
+      },
+      {
+        "label": "Aantal waterregelaars",
+        "value": "1"
+      },
+      {
         "label": "Aantal jets",
         "value": "31 jets"
       },
       {
         "label": "Afmetingen",
-        "value": "200 x 200 x 82 cm"
+        "value": "200 x 200 x 83 cm"
       },
       {
         "label": "Inhoud",
-        "value": "900 liter"
+        "value": "800 liter"
+      },
+      {
+        "label": "Pomp 1",
+        "value": "5pk"
+      },
+      {
+        "label": "Mini-LED verlichting",
+        "value": "8 stuks"
+      },
+      {
+        "label": "Circulatiepomp",
+        "value": "Nee"
+      },
+      {
+        "label": "Heater",
+        "value": "3 kW"
+      },
+      {
+        "label": "Muziekinstallatie",
+        "value": "Geen"
+      },
+      {
+        "label": "Leeg gewicht",
+        "value": "280 kg"
+      },
+      {
+        "label": "Verlichting",
+        "value": "12V / 12W"
+      },
+      {
+        "label": "Stroom",
+        "value": "220-240 V, 50Hz 16/32Amp"
+      },
+      {
+        "label": "Isolatie",
+        "value": "CFC free foam"
+      },
+      {
+        "label": "Filter",
+        "value": "Dual port skim filter"
+      },
+      {
+        "label": "Blower",
+        "value": "700 W"
+      },
+      {
+        "label": "Frame",
+        "value": "Geperst chemisch behandeld hout"
+      },
+      {
+        "label": "Waterval",
+        "value": "Ja"
+      },
+      {
+        "label": "Bodem",
+        "value": "ABS vacuüm bodem"
+      },
+      {
+        "label": "Besturingssysteem",
+        "value": "Balboa"
+      },
+      {
+        "label": "Materiaal kuip",
+        "value": "Aristech"
+      },
+      {
+        "label": "Vorm",
+        "value": "Vierkant"
+      },
+      {
+        "label": "Filter (2)",
+        "value": "UV Filter"
       }
+    ],
+    "images": [
+      "https://www.sunspabenelux.nl/wp-content/uploads/2026/01/Sunspa-Atlantica-1-582x574.webp",
+      "https://www.sunspabenelux.nl/wp-content/uploads/2026/01/Sunspa-Atlantica-Zijkant-scaled.jpg"
     ]
   },
   {
@@ -13235,7 +13411,7 @@
     "type": "spa",
     "title": "Plug and Play Spa Riviera",
     "url": "https://www.sunspabenelux.nl/p/sunspa-riviera/",
-    "image": "",
+    "image": "https://www.sunspabenelux.nl/wp-content/uploads/2026/01/Sunspa-Riviera-582x578.webp",
     "price": 5450,
     "bullets": [],
     "specs": [
@@ -13248,17 +13424,105 @@
         "value": "2 ligplaatsen"
       },
       {
+        "label": "Aantal luchtregelaars",
+        "value": "2"
+      },
+      {
+        "label": "Aantal kussens",
+        "value": "3"
+      },
+      {
+        "label": "Aantal waterregelaars",
+        "value": "1"
+      },
+      {
         "label": "Aantal jets",
         "value": "45 jets"
       },
       {
         "label": "Afmetingen",
-        "value": "215 x 215 x 84 cm"
+        "value": "214 x 214 x 87 cm"
       },
       {
         "label": "Inhoud",
-        "value": "950 liter"
+        "value": "1250 liter"
+      },
+      {
+        "label": "Pomp 1",
+        "value": "3HP"
+      },
+      {
+        "label": "Mini-LED verlichting",
+        "value": "8 stuks"
+      },
+      {
+        "label": "Circulatiepomp",
+        "value": "Nee"
+      },
+      {
+        "label": "Heater",
+        "value": "3 kW"
+      },
+      {
+        "label": "Muziekinstallatie",
+        "value": "Geen"
+      },
+      {
+        "label": "Leeg gewicht",
+        "value": "360 kg"
+      },
+      {
+        "label": "Verlichting",
+        "value": "12V / 12W"
+      },
+      {
+        "label": "Stroom",
+        "value": "220-240 V, 50Hz 16/32Amp"
+      },
+      {
+        "label": "Isolatie",
+        "value": "CFC free foam"
+      },
+      {
+        "label": "Filter",
+        "value": "Dual port skim filter"
+      },
+      {
+        "label": "Blower",
+        "value": "Nee"
+      },
+      {
+        "label": "Frame",
+        "value": "Geperst chemisch behandeld hout"
+      },
+      {
+        "label": "Waterval",
+        "value": "Ja"
+      },
+      {
+        "label": "Bodem",
+        "value": "ABS vacuüm bodem"
+      },
+      {
+        "label": "Besturingssysteem",
+        "value": "Balboa"
+      },
+      {
+        "label": "Materiaal kuip",
+        "value": "Aristech"
+      },
+      {
+        "label": "Vorm",
+        "value": "Vierkant"
+      },
+      {
+        "label": "Filter (2)",
+        "value": "UV-filter"
       }
+    ],
+    "images": [
+      "https://www.sunspabenelux.nl/wp-content/uploads/2026/01/Sunspa-Riviera-582x578.webp",
+      "https://www.sunspabenelux.nl/wp-content/uploads/2026/01/Sunspa-Riviera-Zijaanzicht-kopie-scaled.jpg"
     ]
   },
   {
@@ -13266,30 +13530,126 @@
     "type": "spa",
     "title": "Fox Elite Sevilla",
     "url": "https://www.sunspabenelux.nl/p/fox-elite-sevilla/",
-    "image": "",
+    "image": "https://www.sunspabenelux.nl/wp-content/uploads/2026/02/Fox-Elite-Sevilla-top-582x578.jpg",
     "price": 10750,
     "bullets": [],
     "specs": [
+      {
+        "label": "Afmetingen",
+        "value": "212 x 212 x 84 cm"
+      },
+      {
+        "label": "Materiaal kuip",
+        "value": "Aristech"
+      },
+      {
+        "label": "Aantal ligplaatsen",
+        "value": "0 – enkel zitplaatsen"
+      },
       {
         "label": "Aantal zitplaatsen",
         "value": "7 zitplaatsen"
       },
       {
-        "label": "Aantal ligplaatsen",
-        "value": "0 ligplaatsen"
+        "label": "Aantal luchtregelaars",
+        "value": "3"
+      },
+      {
+        "label": "Aantal kussens",
+        "value": "2"
+      },
+      {
+        "label": "Aantal speakers",
+        "value": "4"
+      },
+      {
+        "label": "Aantal waterregelaars",
+        "value": "1"
       },
       {
         "label": "Aantal jets",
         "value": "60 jets"
       },
       {
-        "label": "Afmetingen",
-        "value": "212 x 212x 83 cm"
-      },
-      {
         "label": "Inhoud",
         "value": "1150 liter"
+      },
+      {
+        "label": "Pomp 1",
+        "value": "3HP"
+      },
+      {
+        "label": "Pomp 2",
+        "value": "3HP"
+      },
+      {
+        "label": "Mini-LED verlichting",
+        "value": "Ja"
+      },
+      {
+        "label": "Circulatiepomp",
+        "value": "250W"
+      },
+      {
+        "label": "Heater",
+        "value": "3 kW"
+      },
+      {
+        "label": "Muziekinstallatie",
+        "value": "Bluetooth, Wifi"
+      },
+      {
+        "label": "Leeg gewicht",
+        "value": "345 kg"
+      },
+      {
+        "label": "Verlichting",
+        "value": "12V / 12W"
+      },
+      {
+        "label": "Stroom",
+        "value": "220-240 V, 50Hz 16/32Amp"
+      },
+      {
+        "label": "Isolatie",
+        "value": "CFC free foam"
+      },
+      {
+        "label": "Filter",
+        "value": "Single-port skim filter"
+      },
+      {
+        "label": "Blower",
+        "value": "900 W"
+      },
+      {
+        "label": "Frame",
+        "value": "Geperst chemisch behandeld hout"
+      },
+      {
+        "label": "Waterval",
+        "value": "Ja"
+      },
+      {
+        "label": "Bodem",
+        "value": "ABS vacuüm bodem"
+      },
+      {
+        "label": "Besturingssysteem",
+        "value": "Balboa"
+      },
+      {
+        "label": "Vorm",
+        "value": "Vierkant"
+      },
+      {
+        "label": "Filter (2)",
+        "value": "UV-filter"
       }
+    ],
+    "images": [
+      "https://www.sunspabenelux.nl/wp-content/uploads/2026/02/Fox-Elite-Sevilla-top-582x578.jpg",
+      "https://www.sunspabenelux.nl/wp-content/uploads/2026/02/Fox-Elite-Sevilla-Sideview.jpg"
     ]
   },
   {
@@ -13297,30 +13657,126 @@
     "type": "spa",
     "title": "Fox Elite Valencia",
     "url": "https://www.sunspabenelux.nl/p/fox-elite-valencia/",
-    "image": "",
+    "image": "https://www.sunspabenelux.nl/wp-content/uploads/2026/02/Fox-Elite-Sevilla-582x582.jpg",
     "price": 10950,
     "bullets": [],
     "specs": [
       {
-        "label": "Aantal zitplaatsen",
-        "value": "5 zitplaatsen"
+        "label": "Afmetingen",
+        "value": "212 x 212 x 84 cm"
+      },
+      {
+        "label": "Materiaal kuip",
+        "value": "Aristech"
       },
       {
         "label": "Aantal ligplaatsen",
         "value": "1 ligplaats"
       },
       {
+        "label": "Aantal zitplaatsen",
+        "value": "5 zitplaatsen"
+      },
+      {
+        "label": "Aantal luchtregelaars",
+        "value": "4"
+      },
+      {
+        "label": "Aantal kussens",
+        "value": "3"
+      },
+      {
+        "label": "Aantal speakers",
+        "value": "4"
+      },
+      {
+        "label": "Aantal waterregelaars",
+        "value": "2"
+      },
+      {
         "label": "Aantal jets",
         "value": "60 jets"
       },
       {
-        "label": "Afmetingen",
-        "value": "212 x 212x 83 cm"
-      },
-      {
         "label": "Inhoud",
         "value": "1225 liter"
+      },
+      {
+        "label": "Pomp 1",
+        "value": "3HP"
+      },
+      {
+        "label": "Pomp 2",
+        "value": "3HP"
+      },
+      {
+        "label": "Mini-LED verlichting",
+        "value": "Ja"
+      },
+      {
+        "label": "Circulatiepomp",
+        "value": "250W"
+      },
+      {
+        "label": "Heater",
+        "value": "3 kW"
+      },
+      {
+        "label": "Muziekinstallatie",
+        "value": "Bluetooth, Wifi"
+      },
+      {
+        "label": "Leeg gewicht",
+        "value": "360 kg"
+      },
+      {
+        "label": "Verlichting",
+        "value": "12V / 12W"
+      },
+      {
+        "label": "Stroom",
+        "value": "220-240 V, 50Hz 16/32Amp"
+      },
+      {
+        "label": "Isolatie",
+        "value": "CFC free foam"
+      },
+      {
+        "label": "Filter",
+        "value": "Single-port skim filter"
+      },
+      {
+        "label": "Blower",
+        "value": "900 W"
+      },
+      {
+        "label": "Frame",
+        "value": "Geperst chemisch behandeld hout"
+      },
+      {
+        "label": "Waterval",
+        "value": "Ja"
+      },
+      {
+        "label": "Bodem",
+        "value": "ABS vacuüm bodem"
+      },
+      {
+        "label": "Besturingssysteem",
+        "value": "Balboa"
+      },
+      {
+        "label": "Vorm",
+        "value": "Vierkant"
+      },
+      {
+        "label": "Filter (2)",
+        "value": "UV-filter"
       }
+    ],
+    "images": [
+      "https://www.sunspabenelux.nl/wp-content/uploads/2026/02/Fox-Elite-Sevilla-582x582.jpg",
+      "https://www.sunspabenelux.nl/wp-content/uploads/2026/02/Fox-Elite-Sevilla-Sideview.jpg"
     ]
   },
   {
@@ -13328,7 +13784,7 @@
     "type": "spa",
     "title": "Fox Elite Formentera",
     "url": "https://www.sunspabenelux.nl/p/fox-elite-formentera/",
-    "image": "",
+    "image": "https://www.sunspabenelux.nl/wp-content/uploads/2026/01/Fox-Elite-Formentera-582x582.jpg",
     "price": 10950,
     "bullets": [],
     "specs": [
@@ -13341,17 +13797,113 @@
         "value": "2 ligplaatsen"
       },
       {
+        "label": "Aantal luchtregelaars",
+        "value": "4"
+      },
+      {
+        "label": "Aantal kussens",
+        "value": "3"
+      },
+      {
+        "label": "Aantal speakers",
+        "value": "Geen"
+      },
+      {
+        "label": "Aantal waterregelaars",
+        "value": "2"
+      },
+      {
         "label": "Aantal jets",
         "value": "63 jets"
       },
       {
         "label": "Afmetingen",
-        "value": "212 x 212 x 83 cm"
+        "value": "212 x 212 x 84 cm"
       },
       {
         "label": "Inhoud",
         "value": "1217 liter"
+      },
+      {
+        "label": "Pomp 1",
+        "value": "3HP"
+      },
+      {
+        "label": "Pomp 2",
+        "value": "3HP"
+      },
+      {
+        "label": "Mini-LED verlichting",
+        "value": "Ja"
+      },
+      {
+        "label": "Circulatiepomp",
+        "value": "250W"
+      },
+      {
+        "label": "Heater",
+        "value": "3 kW"
+      },
+      {
+        "label": "Muziekinstallatie",
+        "value": "Ipod / Bluetooth"
+      },
+      {
+        "label": "Leeg gewicht",
+        "value": "360 kg"
+      },
+      {
+        "label": "Verlichting",
+        "value": "12V / 12W"
+      },
+      {
+        "label": "Stroom",
+        "value": "220-240 V, 50Hz 16/32Amp"
+      },
+      {
+        "label": "Isolatie",
+        "value": "CFC free foam"
+      },
+      {
+        "label": "Filter",
+        "value": "Dual port skim filter"
+      },
+      {
+        "label": "Blower",
+        "value": "900 W"
+      },
+      {
+        "label": "Frame",
+        "value": "Geperst chemisch behandeld hout"
+      },
+      {
+        "label": "Waterval",
+        "value": "Ja"
+      },
+      {
+        "label": "Bodem",
+        "value": "ABS vacuüm bodem"
+      },
+      {
+        "label": "Besturingssysteem",
+        "value": "Balboa"
+      },
+      {
+        "label": "Materiaal kuip",
+        "value": "Aristech"
+      },
+      {
+        "label": "Vorm",
+        "value": "Vierkant"
+      },
+      {
+        "label": "Filter (2)",
+        "value": "UV-filter"
       }
+    ],
+    "images": [
+      "https://www.sunspabenelux.nl/wp-content/uploads/2026/01/Fox-Elite-Formentera-582x582.jpg",
+      "https://www.sunspabenelux.nl/wp-content/uploads/2026/01/Fox-Elite-Formentera-zijaanzicht.jpg"
     ]
   },
   {
@@ -13359,7 +13911,7 @@
     "type": "spa",
     "title": "Fox Elite Denia",
     "url": "https://www.sunspabenelux.nl/p/fox-elite-denia/",
-    "image": "",
+    "image": "https://www.sunspabenelux.nl/wp-content/uploads/2026/01/Fox-Elite-Denia-582x582.jpg",
     "price": 12450,
     "bullets": [],
     "specs": [
@@ -13372,6 +13924,22 @@
         "value": "1 ligplaats"
       },
       {
+        "label": "Aantal luchtregelaars",
+        "value": "4"
+      },
+      {
+        "label": "Aantal kussens",
+        "value": "3"
+      },
+      {
+        "label": "Aantal speakers",
+        "value": "4"
+      },
+      {
+        "label": "Aantal waterregelaars",
+        "value": "1"
+      },
+      {
         "label": "Aantal jets",
         "value": "72 jets"
       },
@@ -13382,7 +13950,91 @@
       {
         "label": "Inhoud",
         "value": "1500 liter"
+      },
+      {
+        "label": "Pomp 1",
+        "value": "2.5pk"
+      },
+      {
+        "label": "Pomp 2",
+        "value": "2.5pk"
+      },
+      {
+        "label": "Pomp 3",
+        "value": "2.5pk"
+      },
+      {
+        "label": "Mini-LED verlichting",
+        "value": "Ja"
+      },
+      {
+        "label": "Circulatiepomp",
+        "value": "250W"
+      },
+      {
+        "label": "Heater",
+        "value": "3 kW"
+      },
+      {
+        "label": "Muziekinstallatie",
+        "value": "Ipod / Bluetooth"
+      },
+      {
+        "label": "Leeg gewicht",
+        "value": "395 kg"
+      },
+      {
+        "label": "Verlichting",
+        "value": "12V / 12W"
+      },
+      {
+        "label": "Stroom",
+        "value": "220-240 V, 50Hz 16/32Amp"
+      },
+      {
+        "label": "Isolatie",
+        "value": "CFC free foam"
+      },
+      {
+        "label": "Filter",
+        "value": "Dual port skim filter"
+      },
+      {
+        "label": "Blower",
+        "value": "900 W"
+      },
+      {
+        "label": "Frame",
+        "value": "Geperst chemisch behandeld hout"
+      },
+      {
+        "label": "Waterval",
+        "value": "Ja"
+      },
+      {
+        "label": "Bodem",
+        "value": "ABS vacuüm bodem"
+      },
+      {
+        "label": "Besturingssysteem",
+        "value": "Balboa"
+      },
+      {
+        "label": "Materiaal kuip",
+        "value": "Aristech"
+      },
+      {
+        "label": "Vorm",
+        "value": "Vierkant"
+      },
+      {
+        "label": "Filter (2)",
+        "value": "UV-filter"
       }
+    ],
+    "images": [
+      "https://www.sunspabenelux.nl/wp-content/uploads/2026/01/Fox-Elite-Denia-582x582.jpg",
+      "https://www.sunspabenelux.nl/wp-content/uploads/2026/01/Fox-Elite-Denia-Zijaanzicht.jpg"
     ]
   },
   {
@@ -13390,8 +14042,270 @@
     "type": "spa",
     "title": "Fox Elite Majorca",
     "url": "https://www.sunspabenelux.nl/p/fox-elite-majorca/",
-    "image": "",
+    "image": "https://www.sunspabenelux.nl/wp-content/uploads/2026/02/Fox-Elite-Majorca-582x558.jpg",
     "price": 12950,
+    "bullets": [],
+    "specs": [
+      {
+        "label": "Afmetingen",
+        "value": "227 x 227 x 86 cm"
+      },
+      {
+        "label": "Materiaal kuip",
+        "value": "Aristech"
+      },
+      {
+        "label": "Aantal ligplaatsen",
+        "value": "2 ligplaatsen"
+      },
+      {
+        "label": "Aantal zitplaatsen",
+        "value": "3 zitplaatsen"
+      },
+      {
+        "label": "Aantal luchtregelaars",
+        "value": "4"
+      },
+      {
+        "label": "Aantal kussens",
+        "value": "3"
+      },
+      {
+        "label": "Aantal speakers",
+        "value": "4"
+      },
+      {
+        "label": "Aantal waterregelaars",
+        "value": "1"
+      },
+      {
+        "label": "Aantal jets",
+        "value": "79 jets"
+      },
+      {
+        "label": "Inhoud",
+        "value": "1470 liter"
+      },
+      {
+        "label": "Pomp 1",
+        "value": "2.5pk"
+      },
+      {
+        "label": "Pomp 2",
+        "value": "2.5pk"
+      },
+      {
+        "label": "Pomp 3",
+        "value": "2.5pk"
+      },
+      {
+        "label": "Mini-LED verlichting",
+        "value": "Ja"
+      },
+      {
+        "label": "Circulatiepomp",
+        "value": "250W"
+      },
+      {
+        "label": "Heater",
+        "value": "3 kW"
+      },
+      {
+        "label": "Muziekinstallatie",
+        "value": "Bluetooth, Wifi"
+      },
+      {
+        "label": "Leeg gewicht",
+        "value": "400 kg"
+      },
+      {
+        "label": "Verlichting",
+        "value": "12V / 12W"
+      },
+      {
+        "label": "Stroom",
+        "value": "220-240 V, 50Hz 16/32Amp"
+      },
+      {
+        "label": "Isolatie",
+        "value": "CFC free foam"
+      },
+      {
+        "label": "Filter",
+        "value": "Single-port skim filter"
+      },
+      {
+        "label": "Blower",
+        "value": "900 W"
+      },
+      {
+        "label": "Frame",
+        "value": "Geperst chemisch behandeld hout"
+      },
+      {
+        "label": "Waterval",
+        "value": "Ja"
+      },
+      {
+        "label": "Bodem",
+        "value": "ABS vacuüm bodem"
+      },
+      {
+        "label": "Besturingssysteem",
+        "value": "Balboa"
+      },
+      {
+        "label": "Vorm",
+        "value": "Vierkant"
+      },
+      {
+        "label": "Filter (2)",
+        "value": "UV-filter"
+      }
+    ],
+    "images": [
+      "https://www.sunspabenelux.nl/wp-content/uploads/2026/02/Fox-Elite-Majorca-582x558.jpg",
+      "https://www.sunspabenelux.nl/wp-content/uploads/2026/02/Fox-Elite-Majorca-sideview.webp"
+    ]
+  },
+  {
+    "id": "spa::fox-elite-palma",
+    "type": "spa",
+    "title": "Fox Elite Palma",
+    "url": "https://www.sunspabenelux.nl/p/fox-elite-palma/",
+    "image": "https://www.sunspabenelux.nl/wp-content/uploads/2026/02/Fox-Elite-Palma-582x565.jpg",
+    "price": 12995,
+    "bullets": [],
+    "specs": [
+      {
+        "label": "Afmetingen",
+        "value": "227 x 227 x 86 cm"
+      },
+      {
+        "label": "Materiaal kuip",
+        "value": "Aristech"
+      },
+      {
+        "label": "Aantal ligplaatsen",
+        "value": "0 – enkel zitplaatsen"
+      },
+      {
+        "label": "Aantal zitplaatsen",
+        "value": "7 zitplaatsen"
+      },
+      {
+        "label": "Aantal luchtregelaars",
+        "value": "5"
+      },
+      {
+        "label": "Aantal kussens",
+        "value": "3"
+      },
+      {
+        "label": "Aantal speakers",
+        "value": "4"
+      },
+      {
+        "label": "Aantal waterregelaars",
+        "value": "2"
+      },
+      {
+        "label": "Aantal jets",
+        "value": "72 jets"
+      },
+      {
+        "label": "Inhoud",
+        "value": "1225 liter"
+      },
+      {
+        "label": "Pomp 1",
+        "value": "2.5pk"
+      },
+      {
+        "label": "Pomp 2",
+        "value": "2.5pk"
+      },
+      {
+        "label": "Pomp 3",
+        "value": "2.5pk"
+      },
+      {
+        "label": "Mini-LED verlichting",
+        "value": "Ja"
+      },
+      {
+        "label": "Circulatiepomp",
+        "value": "250W"
+      },
+      {
+        "label": "Heater",
+        "value": "3 kW"
+      },
+      {
+        "label": "Muziekinstallatie",
+        "value": "Bluetooth, Wifi"
+      },
+      {
+        "label": "Leeg gewicht",
+        "value": "1565 liter"
+      },
+      {
+        "label": "Verlichting",
+        "value": "12V / 12W"
+      },
+      {
+        "label": "Stroom",
+        "value": "220-240 V, 50Hz 16/32Amp"
+      },
+      {
+        "label": "Isolatie",
+        "value": "CFC free foam"
+      },
+      {
+        "label": "Filter",
+        "value": "Single-port skim filter"
+      },
+      {
+        "label": "Blower",
+        "value": "900 W"
+      },
+      {
+        "label": "Frame",
+        "value": "Geperst chemisch behandeld hout"
+      },
+      {
+        "label": "Waterval",
+        "value": "Ja"
+      },
+      {
+        "label": "Bodem",
+        "value": "ABS vacuüm bodem"
+      },
+      {
+        "label": "Besturingssysteem",
+        "value": "Balboa"
+      },
+      {
+        "label": "Vorm",
+        "value": "Vierkant"
+      },
+      {
+        "label": "Filter (2)",
+        "value": "UV-filter"
+      }
+    ],
+    "images": [
+      "https://www.sunspabenelux.nl/wp-content/uploads/2026/02/Fox-Elite-Palma-582x565.jpg",
+      "https://www.sunspabenelux.nl/wp-content/uploads/2026/02/Fox-Elite-Palma-Sideview.webp"
+    ]
+  },
+  {
+    "id": "spa::fox-elite-altea",
+    "type": "spa",
+    "title": "Fox Elite Altea",
+    "url": "https://www.sunspabenelux.nl/p/fox-elite-altea/",
+    "image": "https://www.sunspabenelux.nl/wp-content/uploads/2026/01/ELT2700-2CL-Top-view-582x571.jpg",
+    "price": 15950,
     "bullets": [],
     "specs": [
       {
@@ -13403,66 +14317,20 @@
         "value": "2 ligplaatsen"
       },
       {
-        "label": "Aantal jets",
-        "value": "79 jets"
+        "label": "Aantal luchtregelaars",
+        "value": "5"
       },
       {
-        "label": "Afmetingen",
-        "value": "227 x 227 x 87 cm"
+        "label": "Aantal kussens",
+        "value": "2"
       },
       {
-        "label": "Inhoud",
-        "value": "1470 liter"
-      }
-    ]
-  },
-  {
-    "id": "spa::fox-elite-palma",
-    "type": "spa",
-    "title": "Fox Elite Palma",
-    "url": "https://www.sunspabenelux.nl/p/fox-elite-palma/",
-    "image": "",
-    "price": 12995,
-    "bullets": [],
-    "specs": [
-      {
-        "label": "Aantal zitplaatsen",
-        "value": "7 zitplaatsen"
+        "label": "Aantal speakers",
+        "value": "4"
       },
       {
-        "label": "Aantal ligplaatsen",
-        "value": "0 ligplaatsen"
-      },
-      {
-        "label": "Aantal jets",
-        "value": "72 jets"
-      },
-      {
-        "label": "Afmetingen",
-        "value": "227 x 227 x 86 cm"
-      },
-      {
-        "label": "Inhoud",
-        "value": "1565 liter"
-      }
-    ]
-  },
-  {
-    "id": "spa::fox-elite-altea",
-    "type": "spa",
-    "title": "Fox Elite Altea",
-    "url": "https://www.sunspabenelux.nl/p/fox-elite-altea/",
-    "image": "",
-    "price": 15950,
-    "bullets": [],
-    "specs": [
-      {
-        "label": "Aantal zitplaatsen",
-        "value": "4 zitplaatsen"
-      },
-      {
-        "label": "Aantal ligplaatsen",
-        "value": "2 ligplaats"
+        "label": "Aantal waterregelaars",
+        "value": "2"
       },
       {
         "label": "Aantal jets",
@@ -13470,12 +14338,96 @@
       },
       {
         "label": "Afmetingen",
-        "value": "234 x 234x 88 cm"
+        "value": "234 x 234 x 88 cm"
       },
       {
         "label": "Inhoud",
         "value": "1660 liter"
+      },
+      {
+        "label": "Pomp 1",
+        "value": "3pk"
+      },
+      {
+        "label": "Pomp 2",
+        "value": "3pk"
+      },
+      {
+        "label": "Pomp 3",
+        "value": "3pk"
+      },
+      {
+        "label": "Mini-LED verlichting",
+        "value": "Ja"
+      },
+      {
+        "label": "Circulatiepomp",
+        "value": "250W"
+      },
+      {
+        "label": "Heater",
+        "value": "3 kW"
+      },
+      {
+        "label": "Muziekinstallatie",
+        "value": "Bluetooth, Wifi"
+      },
+      {
+        "label": "Leeg gewicht",
+        "value": "440 kg"
+      },
+      {
+        "label": "Verlichting",
+        "value": "12V / 12W"
+      },
+      {
+        "label": "Stroom",
+        "value": "220-240 V, 50Hz 16/32Amp"
+      },
+      {
+        "label": "Isolatie",
+        "value": "CFC free foam"
+      },
+      {
+        "label": "Filter",
+        "value": "Dual port skim filter"
+      },
+      {
+        "label": "Blower",
+        "value": "900 W"
+      },
+      {
+        "label": "Frame",
+        "value": "Geperst chemisch behandeld hout"
+      },
+      {
+        "label": "Waterval",
+        "value": "Ja"
+      },
+      {
+        "label": "Bodem",
+        "value": "ABS vacuüm bodem"
+      },
+      {
+        "label": "Besturingssysteem",
+        "value": "Balboa"
+      },
+      {
+        "label": "Materiaal kuip",
+        "value": "Aristech"
+      },
+      {
+        "label": "Vorm",
+        "value": "Vierkant"
+      },
+      {
+        "label": "Filter (2)",
+        "value": "UV-filter"
       }
+    ],
+    "images": [
+      "https://www.sunspabenelux.nl/wp-content/uploads/2026/01/ELT2700-2CL-Top-view-582x571.jpg",
+      "https://www.sunspabenelux.nl/wp-content/uploads/2026/01/Fox-elite-altea-sideview.jpg"
     ]
   }
 ]
